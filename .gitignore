@@ -15,3 +15,6 @@ wheels/
 
 # Data files
 *.csv
+
+.DS_Store
+.python-version
